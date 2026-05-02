@@ -1,0 +1,290 @@
+[
+  {
+    "codigo": "01000",
+    "nome": "Câmara dos Deputados - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "01901",
+    "nome": "Fundo Rotativo da Câmara dos Deputados"
+  },
+  {
+    "codigo": "02000",
+    "nome": "Senado Federal - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "02001",
+    "nome": "Fundo Especial do Senado Federal"
+  },
+  {
+    "codigo": "02002",
+    "nome": "Senado Federal/FUNSEEP"
+  },
+  {
+    "codigo": "02003",
+    "nome": "Fundo da Secretaria Especial de Informática"
+  },
+  {
+    "codigo": "03000",
+    "nome": "Tribunal de Contas da União - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Supremo Tribunal Federal - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "11000",
+    "nome": "Superior Tribunal de Justiça - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "12000",
+    "nome": "Justiça Federal - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "12800",
+    "nome": "Justiça Federal"
+  },
+  {
+    "codigo": "12801",
+    "nome": "Tribunal Regional Federal - 1ª Região"
+  },
+  {
+    "codigo": "12802",
+    "nome": "Tribunal Regional Federal - 2ª Região"
+  },
+  {
+    "codigo": "12803",
+    "nome": "Tribunal Regional Federal - 3ª Região"
+  },
+  {
+    "codigo": "12804",
+    "nome": "Tribunal Regional Federal - 4ª Região"
+  },
+  {
+    "codigo": "12805",
+    "nome": "Tribunal Regional Federal - 5ª Região"
+  },
+  {
+    "codigo": "17000",
+    "nome": "Conselho Nacional de Justiça - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Presidência da República - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "20101",
+    "nome": "Presidência da República"
+  },
+  {
+    "codigo": "20102",
+    "nome": "Gabinete da Vice-Presidência da República"
+  },
+  {
+    "codigo": "20103",
+    "nome": "Ministério da Administração Federal e Reforma do Estado - em extinção - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "20104",
+    "nome": "Secretaria de Assuntos Estratégicos"
+  },
+  {
+    "codigo": "20105",
+    "nome": "Ministério da Defesa - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "20113",
+    "nome": "Ministério do Planejamento e Orçamento - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "20114",
+    "nome": "Advocacia-Geral da União - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "20122",
+    "nome": "Secretaria Nacional de Políticas para Mulheres"
+  },
+  {
+    "codigo": "20124",
+    "nome": "Secretaria Especial de Aqüicultura e Pesca"
+  },
+  {
+    "codigo": "20125",
+    "nome": "Controladoria-Geral da União"
+  },
+  {
+    "codigo": "20129",
+    "nome": "Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário"
+  },
+  {
+    "codigo": "20203",
+    "nome": "Agência Nacional do Cinema"
+  },
+  {
+    "codigo": "20214",
+    "nome": "Agência Nacional de Aviação Civil"
+  },
+  {
+    "codigo": "20402",
+    "nome": "Agência Espacial Brasileira"
+  },
+  {
+    "codigo": "20801",
+    "nome": "Secretaria de Patrimônio da União"
+  },
+  {
+    "codigo": "20803",
+    "nome": "Secretaria de Administração"
+  },
+  {
+    "codigo": "22000",
+    "nome": "Ministério da Agricultura e Pecuária - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "22803",
+    "nome": "Secretaria Nacional de Defesa Agropecuária"
+  },
+  {
+    "codigo": "22806",
+    "nome": "Secretaria de Desenvolvimento Agropecuário e Cooperativismo"
+  },
+  {
+    "codigo": "23000",
+    "nome": "Ministério do Bem Estar Social - em extinção - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "24000",
+    "nome": "Ministério da Ciência, Tecnologia e Inovação - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "25000",
+    "nome": "Ministério da Fazenda - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "25201",
+    "nome": "Banco Central do Brasil - Orçamento Fiscal e Seguridade Social - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "25280",
+    "nome": "Banco Central do Brasil"
+  },
+  {
+    "codigo": "25805",
+    "nome": "Secretaria do Tesouro Nacional"
+  },
+  {
+    "codigo": "25806",
+    "nome": "Secretaria de Acompanhamento Econômico"
+  },
+  {
+    "codigo": "26000",
+    "nome": "Ministério da Educação - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "26801",
+    "nome": "Secretaria de Educação Básica"
+  },
+  {
+    "codigo": "28000",
+    "nome": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "29000",
+    "nome": "Defensoria Pública da União - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Ministério da Justiça e Segurança Pública - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "32000",
+    "nome": "Ministério de Minas e Energia - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "32205",
+    "nome": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+  },
+  {
+    "codigo": "32210",
+    "nome": "Agência Nacional de Energia Elétrica"
+  },
+  {
+    "codigo": "32396",
+    "nome": "Agência Nacional de Mineração"
+  },
+  {
+    "codigo": "33000",
+    "nome": "Ministério da Previdência Social - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "34000",
+    "nome": "Ministério Público da União - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "34801",
+    "nome": "Ministério Público Federal"
+  },
+  {
+    "codigo": "34802",
+    "nome": "Ministério Público do Trabalho"
+  },
+  {
+    "codigo": "36212",
+    "nome": "Agência Nacional de Vigilância Sanitária"
+  },
+  {
+    "codigo": "36213",
+    "nome": "Agência Nacional de Saúde Suplementar"
+  },
+  {
+    "codigo": "37000",
+    "nome": "Controladoria-Geral da União - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "38802",
+    "nome": "Secretaria de Políticas Públicas de Emprego"
+  },
+  {
+    "codigo": "39250",
+    "nome": "Agência Nacional de Transportes Terrestres"
+  },
+  {
+    "codigo": "39251",
+    "nome": "Agência Nacional de Transportes Aquaviários"
+  },
+  {
+    "codigo": "44205",
+    "nome": "Agência Nacional de Águas e Saneamento Básico"
+  },
+  {
+    "codigo": "51801",
+    "nome": "Secretaria de Planejamento, Orçamento e Administração/ME"
+  },
+  {
+    "codigo": "52201",
+    "nome": "Agência Nacional de Aviação Civil"
+  },
+  {
+    "codigo": "52801",
+    "nome": "Secretaria de Organização Institucional"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Gabinete da Vice-Presidência da República"
+  },
+  {
+    "codigo": "62201",
+    "nome": "Agência Nacional de Aviação Civil"
+  },
+  {
+    "codigo": "63000",
+    "nome": "Advocacia-Geral da União - Unidades com vínculo direto"
+  },
+  {
+    "codigo": "66000",
+    "nome": "Controladoria-Geral da União"
+  },
+  {
+    "codigo": "68201",
+    "nome": "Agência Nacional de Transportes Aquaviários"
+  }
+]
